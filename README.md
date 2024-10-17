@@ -2,7 +2,7 @@
 
 # **Fashion MNIST Classifier**
 
-![Banner Image](assets/banner_image.png) *(Replace with your actual banner image)*
+![Texte alternatif…](https://res.cloudinary.com/practicaldev/image/fetch/s---fNWEeWA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png)
 
 
 
